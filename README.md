@@ -18,4 +18,4 @@ The full dataset includes 27753444 ratings and 1108997 tag applications across 5
 ** links.csv (movieId, imdbId, tmdbId)
 ** Tag Genome (genome-scores.csv and genome-tags.csv) (movieId, tagId, relevance) (tagId, tag)
 
-* Instead of 
+* Instead of just using dataset from MovieLens, we can also load [netflix data](http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a) for testing.
